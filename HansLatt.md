@@ -2,5 +2,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Visitor count of my GitHub profile is:
+<h1>Visitor count of my GitHub profile is:</h1>
 ![Visitor Count](https://profile-counter.glitch.me/HansLatt/count.svg)
