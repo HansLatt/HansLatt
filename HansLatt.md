@@ -5,6 +5,3 @@
 <h1>Visitor count of my GitHub profile is:</h1>
 
 ![Visitor Count](https://profile-counter.glitch.me/HansLatt/count.svg)
-
-![stats](https://gitwar.herokuapp.com/badge?username=HansLatt)
-
