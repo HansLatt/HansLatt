@@ -6,3 +6,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/HansLatt/count.svg)
 
+![stats](https://gitwar.herokuapp.com/badge?username=HansLatt)
+
